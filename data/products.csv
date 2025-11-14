@@ -1,0 +1,31 @@
+product_id,product_name,category,subcategory,price,cost_price,stock_quantity,supplier,creation_date,is_active
+1,Least Mention,Electronics,amount,176.69,26.31,46,Oconnell Inc,2025-06-10,True
+2,Air Improve,Home & Garden,somebody,59.01,72.66,33,"Johnson, Collins and Byrd",2024-11-25,True
+3,Great Relate,Books,allow,135.4,27.54,55,Sanders-Espinoza,2024-06-16,True
+4,Respond Success,Books,end,165.27,35.91,62,Vargas Ltd,2025-05-30,True
+5,Interview Shake,Home & Garden,decision,115.49,75.92,69,Garcia LLC,2025-02-14,True
+6,Company Though,Books,those,110.63,66.72,72,"Burke, Martinez and Riggs",2025-06-27,True
+7,Manage Wide,Home & Garden,again,55.95,85.68,94,Reed Group,2024-12-26,True
+8,Care Prevent,Clothing,pretty,27.69,67.47,41,"Wood, Hunter and Peterson",2025-02-20,True
+9,None Agreement,Home & Garden,claim,180.47,58.99,96,Short-Garcia,2024-06-21,True
+10,What Indeed,Home & Garden,edge,181.08,13.9,42,Reid-Poole,2024-02-01,True
+11,Person Organization,Home & Garden,card,130.29,39.93,76,"Hernandez, Thompson and Boyd",2025-08-22,True
+12,Recognize Agreement,Books,material,74.42,30.19,27,"Nelson, Morton and Medina",2024-04-13,True
+13,Because Question,Books,relationship,76.35,28.18,34,Marshall-Petersen,2024-07-02,True
+14,Later Central,Home & Garden,building,147.93,97.44,63,"Adams, Christian and Rivas",2024-05-09,True
+15,Trial Main,Books,organization,180.45,42.34,67,Ramirez Group,2024-08-21,True
+16,Court Apply,Electronics,yourself,178.55,89.74,76,Christensen PLC,2024-04-02,True
+17,Ever Hundred,Electronics,discover,158.18,64.96,55,"Barnett, Rogers and Snyder",2024-07-06,True
+18,Generation Development,Books,make,131.99,80.51,33,White-Lewis,2023-11-25,True
+19,Look General,Books,scene,25.99,52.75,41,Peterson-Beard,2025-05-17,True
+20,Green Sort,Home & Garden,establish,40.71,59.81,56,"Beard, Peters and Black",2025-01-02,True
+21,Until Hundred,Clothing,speak,180.73,51.79,95,Miller Ltd,2024-02-21,False
+22,Fall Soldier,Books,home,125.22,23.55,32,Freeman-Chang,2024-06-15,True
+23,Theory Know,Electronics,computer,11.75,73.63,75,"Alvarez, Joseph and West",2023-12-20,True
+24,Entire They,Home & Garden,police,29.28,31.67,36,Davis and Sons,2023-12-27,True
+25,Beat Many,Books,policy,136.07,7.31,11,Holt-Torres,2025-01-17,True
+26,After So,Electronics,small,10.96,66.32,99,"Wood, Tran and Cooper",2024-06-28,True
+27,Notice Area,Electronics,serious,40.55,21.83,26,"Pierce, Bell and Chavez",2025-05-09,True
+28,Hard Door,Clothing,building,114.26,94.34,42,King-Martinez,2024-02-21,True
+29,Rate Authority,Home & Garden,star,141.46,95.62,18,Stewart Ltd,2025-03-24,True
+30,Statement Reach,Home & Garden,tell,133.87,91.91,52,"Tapia, Vaughn and Lee",2025-09-19,True

@@ -28,10 +28,13 @@ A production-grade solution for the A-SDLC exercise featuring advanced analytics
 ```bash
 # 1. Clone and setup
 git clone <repository>
-cd ecommerce-analytics-platform
+cd Diligent_assignment
 
 # 2. Install dependencies
 pip install -r requirements.txt
 
-# 3. Run complete pipeline
+# 3. Run synthetic data generation code
+python generate_synthetic_data.py
+
+# 4. Run complete pipeline
 python run_complete_pipeline.py

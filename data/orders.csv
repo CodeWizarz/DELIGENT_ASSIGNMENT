@@ -1,0 +1,101 @@
+order_id,customer_id,order_date,status,shipping_country,shipping_city,total_amount
+1,44,2025-10-11 17:42:17,cancelled,Brazil,Port Richardhaven,157.14
+2,5,2025-08-21 21:05:58,delivered,Mayotte,Lake Mollymouth,436.93
+3,39,2025-06-07 11:31:56,processing,Czech Republic,Brownhaven,127.33
+4,4,2025-11-04 00:36:28,pending,Oman,Cindyfort,482.35
+5,6,2025-05-20 22:36:00,processing,Canada,Wolfborough,25.83
+6,45,2025-09-07 00:46:20,pending,United States of America,Andreaport,485.54
+7,32,2025-07-12 18:33:23,pending,Ethiopia,Gilmorefort,40.72
+8,30,2025-08-17 16:59:14,delivered,Sweden,North Teresabury,447.75
+9,47,2025-08-19 12:24:32,pending,Cambodia,West Andrea,273.3
+10,35,2025-08-12 02:10:21,shipped,Barbados,Davisville,496.62
+11,40,2025-07-23 17:14:38,delivered,Bahamas,Valentineberg,55.42
+12,16,2025-06-23 08:38:10,pending,Chad,Cantuport,285.85
+13,13,2025-05-28 12:52:19,delivered,Somalia,Robertfort,485.27
+14,50,2025-07-06 14:04:25,processing,Gambia,Sanchezside,271.09
+15,42,2025-11-01 21:21:33,processing,Nepal,South James,322.11
+16,30,2025-08-19 07:49:06,delivered,San Marino,Port Chad,353.96
+17,19,2025-06-09 17:07:25,delivered,Sweden,Morganhaven,238.18
+18,17,2025-10-25 04:46:32,delivered,Montenegro,Loriport,321.23
+19,19,2025-05-31 05:57:41,delivered,Uruguay,Maryshire,300.47
+20,28,2025-08-04 08:52:16,delivered,France,Grimesmouth,452.56
+21,26,2025-08-22 01:08:39,processing,Kazakhstan,Reedside,41.81
+22,37,2025-06-01 22:41:13,processing,British Virgin Islands,Gibsonmouth,154.86
+23,26,2025-09-07 14:33:09,delivered,Lao People's Democratic Republic,Lake John,476.2
+24,23,2025-09-17 18:52:07,delivered,Portugal,Hallchester,447.33
+25,9,2025-09-28 20:31:58,cancelled,Gabon,West Juliefurt,238.72
+26,12,2025-05-28 23:16:32,shipped,Reunion,Mcneilberg,317.66
+27,1,2025-06-17 00:32:17,shipped,Iraq,Hannaberg,153.14
+28,1,2025-06-16 12:45:01,delivered,Western Sahara,Mollymouth,110.3
+29,47,2025-10-23 01:38:06,shipped,Faroe Islands,New Reneetown,242.58
+30,34,2025-09-04 20:27:42,delivered,Macao,South Monica,189.61
+31,32,2025-07-16 13:24:55,delivered,Mauritius,North Terrance,300.15
+32,48,2025-06-04 02:24:39,shipped,Lithuania,Matthewfurt,57.31
+33,25,2025-07-05 18:05:34,delivered,Kazakhstan,Port Markside,487.71
+34,40,2025-06-10 13:27:48,delivered,Belgium,Finleyfort,493.38
+35,45,2025-09-03 22:14:52,processing,Netherlands Antilles,New Caseyport,355.12
+36,1,2025-10-14 00:00:13,delivered,Armenia,Lake Christopher,277.33
+37,16,2025-08-07 08:57:02,shipped,Tuvalu,Port Cynthiaville,168.57
+38,39,2025-09-13 07:05:03,delivered,Jersey,Jacksonport,410.62
+39,5,2025-09-11 07:35:29,shipped,Saint Pierre and Miquelon,North Markton,348.67
+40,22,2025-10-19 02:33:30,delivered,Gibraltar,Michaelchester,98.06
+41,29,2025-09-15 15:28:39,shipped,Netherlands,East Amanda,457.25
+42,3,2025-07-01 09:13:02,pending,El Salvador,East Gregory,414.82
+43,12,2025-10-16 04:25:59,delivered,Anguilla,Harveybury,475.9
+44,26,2025-08-28 00:48:13,pending,Bermuda,Durhamberg,368.35
+45,16,2025-07-31 10:07:45,shipped,Denmark,South Dana,314.44
+46,37,2025-08-14 00:59:19,cancelled,Peru,Scotttown,220.76
+47,22,2025-11-10 23:22:35,cancelled,Taiwan,Santanaside,467.71
+48,29,2025-08-12 12:40:06,shipped,Tokelau,North Scott,435.71
+49,14,2025-07-15 07:12:18,delivered,Morocco,Vanessaport,41.7
+50,28,2025-11-01 14:06:22,shipped,Namibia,Vaughnmouth,32.66
+51,5,2025-09-09 20:09:54,processing,Zambia,Jamesfurt,200.7
+52,47,2025-08-09 19:55:51,shipped,Angola,Rodriguezfurt,409.07
+53,49,2025-07-16 20:36:51,delivered,Serbia,Baileyport,493.89
+54,30,2025-09-05 23:26:40,delivered,Peru,Port Dominiqueview,92.2
+55,46,2025-09-16 03:38:10,delivered,Swaziland,New Michelleton,305.18
+56,5,2025-05-30 06:07:57,delivered,Ethiopia,Wallport,202.83
+57,12,2025-09-13 22:31:30,pending,Morocco,New Laurie,485.56
+58,16,2025-10-09 06:30:19,shipped,Armenia,Lake James,424.22
+59,26,2025-06-06 19:54:04,pending,Serbia,Ericaberg,422.4
+60,26,2025-10-13 16:03:06,shipped,Saudi Arabia,Lake Debbieport,244.97
+61,48,2025-06-27 21:48:03,shipped,China,Johnsonstad,219.11
+62,21,2025-09-17 00:33:01,delivered,Latvia,North Renee,151.24
+63,39,2025-06-28 12:53:16,shipped,Maldives,Julieburgh,47.06
+64,36,2025-07-08 22:46:46,processing,Pakistan,East Kristin,435.07
+65,33,2025-09-23 19:15:26,processing,Kenya,Alyssaview,410.19
+66,30,2025-06-03 07:48:00,delivered,United States Virgin Islands,West Robin,499.86
+67,37,2025-06-18 01:22:41,delivered,Fiji,Coffeyport,498.39
+68,23,2025-07-04 03:17:30,processing,Cocos (Keeling) Islands,Lindamouth,286.61
+69,10,2025-06-21 07:28:08,pending,Myanmar,East Karenbury,389.11
+70,5,2025-09-02 17:54:34,delivered,Jordan,Coffeyside,473.49
+71,36,2025-06-02 03:16:00,pending,North Macedonia,Christopherfurt,427.83
+72,34,2025-06-17 22:56:02,delivered,Suriname,West Amandamouth,138.73
+73,31,2025-05-19 01:54:32,delivered,Liechtenstein,Emilyview,236.26
+74,10,2025-08-05 21:16:08,pending,Bermuda,Carsonstad,82.0
+75,19,2025-08-14 00:56:18,pending,Latvia,Lake Jesustown,477.94
+76,32,2025-09-29 10:08:29,cancelled,Guernsey,Rosebury,310.96
+77,1,2025-09-10 20:47:59,shipped,Ireland,Lake Madisonport,129.75
+78,5,2025-08-17 19:23:24,shipped,Grenada,Wilsonton,342.42
+79,45,2025-07-14 02:48:21,delivered,Gibraltar,West Wendyville,316.7
+80,4,2025-05-24 21:33:06,delivered,Paraguay,East Paigeberg,191.92
+81,16,2025-07-02 12:11:47,cancelled,Bosnia and Herzegovina,Chavezside,74.51
+82,24,2025-07-13 12:06:18,delivered,Togo,Matthewsberg,342.36
+83,16,2025-10-02 20:05:31,shipped,Central African Republic,Penafort,269.75
+84,2,2025-07-12 11:00:08,pending,Greenland,Crosbyview,390.71
+85,49,2025-10-02 01:35:55,delivered,Isle of Man,Lake Mitchellmouth,269.68
+86,28,2025-11-01 11:29:48,shipped,Puerto Rico,Sampsonstad,429.05
+87,32,2025-08-14 17:22:42,shipped,Lithuania,Lake Michaelstad,284.92
+88,27,2025-06-01 09:09:39,delivered,France,South Joshuaville,289.25
+89,20,2025-09-29 00:53:06,processing,Panama,Davisborough,440.79
+90,24,2025-07-02 21:16:22,shipped,Western Sahara,North Kristinbury,213.67
+91,12,2025-11-13 23:10:36,pending,Iran,Port Anne,84.33
+92,50,2025-07-08 22:21:11,shipped,Suriname,Port Kathyborough,33.82
+93,35,2025-10-18 12:59:01,pending,Senegal,Port Molly,382.47
+94,33,2025-10-19 04:55:15,processing,Mexico,Kimtown,317.75
+95,33,2025-09-16 22:25:14,processing,Argentina,Micheleberg,357.96
+96,43,2025-09-10 02:03:28,delivered,Korea,New John,122.22
+97,37,2025-09-23 22:46:31,delivered,Benin,North Donna,85.46
+98,12,2025-10-21 15:54:40,shipped,Germany,East Alexisbury,26.98
+99,3,2025-06-25 23:20:36,cancelled,El Salvador,Alfredview,188.28
+100,1,2025-08-09 02:43:49,shipped,Gibraltar,East Judyhaven,303.16

@@ -1,0 +1,51 @@
+customer_id,first_name,last_name,email,signup_date,customer_tier,country,city,loyalty_score,is_active
+1,Danielle,Wood,frazierdanny@example.net,2025-07-18,standard,Slovakia (Slovak Republic),East Andrew,64.76933159990821,True
+2,Angel,Clark,kayla51@example.com,2025-04-27,premium,Monaco,South Mark,53.42736562379941,True
+3,Joshua,Adams,amoore@example.net,2025-10-02,premium,Turks and Caicos Islands,Port Joshuahaven,47.68703435223519,True
+4,Jeffrey,Zuniga,teresa28@example.org,2025-03-01,standard,Tunisia,Frazierside,43.977926088214225,True
+5,Jill,Wong,meagan89@example.org,2024-12-01,standard,Ireland,Sheilaville,20.42956019265145,True
+6,Erica,Lynch,nathanielmartin@example.net,2024-11-15,standard,Niger,Gregoryview,35.60311583210583,True
+7,Patricia,Jackson,georgetracy@example.org,2025-03-23,standard,San Marino,North Candacestad,40.78722458080425,True
+8,Christopher,Daniel,natasha43@example.org,2025-09-09,premium,Cape Verde,Samuelhaven,71.1424445243783,True
+9,Robert,Martin,nataliearroyo@example.org,2025-01-03,standard,Uzbekistan,South Rachelborough,56.872365791369226,True
+10,Anthony,Gray,wcabrera@example.net,2025-07-19,premium,Venezuela,Bradleychester,14.73919689274532,True
+11,Jeffery,Mayo,davidalvarez@example.net,2025-02-23,standard,Dominica,New Saraside,56.4816793878959,True
+12,William,Bowman,josephbrennan@example.com,2025-01-15,premium,Tonga,West Ryan,42.29835439167367,True
+13,Anthony,Hawkins,sarahcampos@example.net,2025-08-28,premium,Central African Republic,Cindyville,36.461559993880826,True
+14,James,Cohen,jenniferross@example.net,2025-05-04,standard,South Georgia and the South Sandwich Islands,Williamchester,62.23352577681736,True
+15,Debra,Cameron,samuel87@example.org,2025-06-16,standard,Sudan,Richardport,70.61999044991902,True
+16,Amy,Parsons,jeffreymorgan@example.net,2025-08-15,standard,Christmas Island,East Robert,68.62560238232398,True
+17,Jeffrey,Perez,briannasmith@example.net,2025-04-29,standard,Turkmenistan,Byrdburgh,33.21564953554723,False
+18,Bridget,Johnson,perezrebecca@example.com,2025-06-19,standard,Isle of Man,Richardtown,43.81575248297571,True
+19,Lisa,Stewart,palmerjoshua@example.com,2024-11-17,standard,Anguilla,Justinchester,56.62526862807128,True
+20,Adam,Adams,ambercummings@example.net,2024-12-27,standard,Christmas Island,Stevenmouth,69.51090254244718,True
+21,Linda,Clark,esanchez@example.com,2024-12-13,standard,Saint Pierre and Miquelon,New Thomas,40.4165152430942,True
+22,Helen,Hahn,clintonhopkins@example.com,2025-10-22,standard,Uzbekistan,Lake Christopher,46.286820466723654,False
+23,Matthew,Walter,ujenkins@example.org,2025-08-09,standard,Grenada,Clarencebury,27.873300519879436,False
+24,Eric,Edwards,brownjessica@example.org,2025-10-31,standard,Slovenia,Jeffreyborough,26.075867518386584,True
+25,Susan,Rios,jamesherrera@example.org,2025-01-10,standard,Venezuela,North Brandon,66.25051644788397,True
+26,Matthew,Foster,dwhite@example.org,2025-06-13,premium,Isle of Man,Carrland,77.12480057141646,True
+27,Christopher,Rocha,ramosmichelle@example.net,2024-11-27,standard,Spain,Perryshire,48.55979756839332,True
+28,Colin,Ellis,williamsyvette@example.org,2025-10-04,standard,Paraguay,Lake Heather,70.07065795784048,True
+29,Melanie,Baker,housemelinda@example.org,2025-04-06,standard,Tonga,Rossberg,57.23272050095268,True
+30,Cassandra,Wright,ntucker@example.com,2025-06-28,standard,Saint Pierre and Miquelon,Port Michelleville,37.09760490789751,True
+31,Lindsay,Hoffman,martinaaron@example.com,2025-06-16,standard,Sudan,Robinsonhaven,57.227912110168276,True
+32,Jessica,Baker,sara74@example.com,2025-01-10,standard,Egypt,Williamsbury,80.76073132931938,True
+33,Amanda,Richards,smoore@example.org,2025-04-29,standard,Ethiopia,South Dennismouth,49.283479217800966,False
+34,Teresa,Hurst,rileyamy@example.net,2025-01-02,premium,Cayman Islands,Stephaniemouth,81.29287311628012,True
+35,Nicholas,Ross,brian97@example.net,2024-11-30,premium,Solomon Islands,Rivasside,-2.394902081794889,True
+36,Andrea,Robinson,brianromero@example.org,2025-03-13,premium,Reunion,Merrittfort,66.43805008750448,True
+37,Maria,Bright,larsonemma@example.org,2025-04-04,standard,Botswana,Greenbury,51.74094136476342,False
+38,Christine,Hicks,kwilson@example.org,2025-10-29,standard,Hong Kong,Katiehaven,44.01985299068265,True
+39,Michelle,Davis,harveyrobert@example.net,2025-11-11,standard,Tunisia,Simsview,51.835215530710045,True
+40,Barbara,Williams,sarah35@example.org,2025-09-19,standard,Argentina,Jonesport,10.248621707982146,True
+41,Janet,Rodriguez,randy47@example.com,2025-10-14,standard,Togo,West Matthew,45.60656224324976,True
+42,Brandon,Burton,smithchristine@example.net,2024-11-29,standard,Latvia,East Edwardfurt,57.14225143023493,True
+43,Jeremy,Conner,jonesjason@example.com,2025-10-29,standard,Cyprus,Lake Jason,79.55788089483032,True
+44,Keith,Henderson,sarahibarra@example.org,2025-04-01,premium,Cook Islands,Russellside,39.63459563452705,True
+45,Christopher,Brown,justin78@example.net,2025-02-03,standard,Svalbard & Jan Mayen Islands,Perryborough,33.830127942136244,True
+46,Jesse,James,cheryl80@example.net,2025-08-05,standard,Uruguay,Priceshire,39.96485912830927,True
+47,Craig,Ferrell,sarah12@example.com,2025-02-18,standard,Kuwait,Port Nicoleshire,68.30804235404148,True
+48,Joshua,Rice,prestonjulia@example.org,2025-07-31,standard,Guernsey,Woodsstad,56.57502219319369,True
+49,Cynthia,Maddox,juan35@example.org,2024-12-23,standard,Gambia,Karenchester,39.404795924659226,True
+50,Michael,Valencia,william40@example.org,2025-03-31,standard,Swaziland,South Jeffrey,60.26534866226712,True
